@@ -1,0 +1,1 @@
+This course strengthened my understanding of software development by introducing mobile and web application development concepts. Through practical projects, I learned how to design user interfaces, manage application logic, and integrate databases. The experience enhanced my problem-solving skills and gave me exposure to the complete application development lifecycle.
