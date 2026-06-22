@@ -1,0 +1,1 @@
+This subject provided valuable knowledge on processing large-scale datasets efficiently using distributed computing technologies. I learned how performance optimization techniques can improve data processing speed and scalability. The course deepened my understanding of big data frameworks and their applications in modern data engineering.
