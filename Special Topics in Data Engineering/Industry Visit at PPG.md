@@ -1,5 +1,3 @@
-I had the opportunity to visit PPG on 7 April 2026 and gain a deeper understanding of how data is applied within the coatings manufacturing industry.
+The visit to PPG on 7 April 2026 provided valuable insights into the practical use of data within the coatings manufacturing industry. Through the visit, I gained a better understanding of how data supports various aspects of business operations, including process optimization, quality management, and decision-making.
 
-The visit provided valuable exposure to the role of data in supporting operational efficiency, product quality, and strategic decision-making. It was particularly insightful to see how data-driven processes and monitoring systems contribute to improving productivity and maintaining high industry standards.
-
-This experience highlighted the growing importance of data and technology in modern industrial environments. My sincere appreciation to the PPG team for their warm hospitality and for sharing their knowledge and expertise.
+One of the key lessons learned was the importance of data-driven monitoring systems in improving operational efficiency and maintaining consistent product quality. Overall, the experience broadened my perspective on the application of data in industrial environments and reinforced the importance of data and technology in driving continuous improvement within modern organizations.
